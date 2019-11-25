@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Staatliches&display=swap');
+form{
+    display:flex;
+    flex-direction: row;
+    margin-top:20%;
+    margin left:7%;
+    justify-content: center;
+    background-image: url("terre.jpg");
+
+}
+    
+select{
+    height:150px;
+    font-family: 'Staatliches', cursive;
+
+
+}
+body{
+ margin: auto;
+    background-color: brown;
+}

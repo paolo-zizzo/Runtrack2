@@ -1,0 +1,9 @@
+
+form{
+display:flex;
+flex-direction: row;
+margin-top:20%;
+justify-content: center;
+border: solid 1px;
+background-color: aqua;
+}

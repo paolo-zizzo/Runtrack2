@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=McLaren&display=swap');
+
+
+form{
+    display:flex;
+    flex-direction: row;
+    margin-top:20%;
+    margin left:7%;
+    
+    
+    
+    
+    
+}
+
+body {
+background-image: url("code.jpg");
+}
+
+select{
+    height:40px;
+    width: 100px;
+    font-family: 'McLaren', cursive;
+    border-radius: 6px;
+}
